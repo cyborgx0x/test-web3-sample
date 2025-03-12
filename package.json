@@ -1,0 +1,19 @@
+{
+  "name": "test-web3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "synpress run",
+    "test:open": "synpress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.6.2",
+  "devDependencies": {
+    "@synthetixio/synpress": "^4.0.10",
+    "cypress": "^14.1.0",
+    "typescript": "^5.8.2"
+  }
+}
