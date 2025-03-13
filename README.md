@@ -22,13 +22,13 @@ Try running it with the `--help` flag to see all available configuration options
 
 Here's how to use it:
 
-### Cài đặt NVM
+### Cài đặt NVM (có thể bỏ qua với codespace)
 
 ```bash
 ./nvm.sh
 ```
 
-### cài đặt NODEJS
+### cài đặt NODEJS (có thể bỏ qua với codespace)
 
 ```bash
 nvm install 20
@@ -41,7 +41,7 @@ nvm use 20
 ./codespace.sh
 ```
 
-
+Sau đó sử dụng như bình thường
 
 ```bash
 # Build cache in a headed mode:
