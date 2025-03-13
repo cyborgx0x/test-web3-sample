@@ -17,6 +17,7 @@
     "test:cypress:headful": "cypress run --browser chrome --headed"
   },
   "dependencies": {
+    "@synthetixio/synpress": "4.0.10",
     "dotenv": "16.4.2"
   },
   "devDependencies": {
