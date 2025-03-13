@@ -6,6 +6,8 @@
 
 # 📖 Intro
 
+
+
 The New Dawn version of Synpress differs in one major way from all previous versions and all other similar Web3 tools:
 
 - We set up the browser only once, and we cache it. Thanks to this, tests not only run faster, but it also allows to use
@@ -19,6 +21,27 @@ utilizes the setup files from `test/wallet-setup` directory.
 Try running it with the `--help` flag to see all available configuration options.
 
 Here's how to use it:
+
+### Cài đặt NVM
+
+```bash
+./nvm.sh
+```
+
+### cài đặt NODEJS
+
+```bash
+nvm install 20
+nvm use 20
+```
+
+### Cài đặt các thư viện cần thiết
+
+```bash
+./codespace.sh
+```
+
+
 
 ```bash
 # Build cache in a headed mode:
